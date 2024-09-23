@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2> Hi, I'm Aless Favotto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="230">
+<p><em>Full Stack Software Developer <a href="http://www.unb.br">studying at 4GeeksAcademy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**alessf95/alessf95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin: Aless Favotto](https://img.shields.io/badge/-alessfavotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustina-alessandra-favotto-498a50184/)](https://www.linkedin.com/in/agustina-alessandra-favotto-498a50184/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const aless = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Node, Bootstrap, Jest],
+                      },
+ challenge: "I am doing the Full Stack Software Developer at 4GeeksAcademy
+             and planning to do a cybersecurity bootcamp after it"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
