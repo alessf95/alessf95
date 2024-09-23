@@ -15,7 +15,7 @@ const aless = {
   code: [Javascript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Node, Bootstrap, Jest],
                       },
- challenge: "I am doing the Full Stack Software Developer at 4GeeksAcademy
+ challenge: "I am doing the Full Stack Software Developer bootcamp at 4GeeksAcademy
              and planning to do a cybersecurity bootcamp after it"
 }
 ```
