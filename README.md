@@ -1,4 +1,4 @@
-<h2> Hi, I'm Aless Favotto! <img src="https://www.reddit.com/r/gifs/comments/syfm9e/cyberpunk_aesthetic_anime_girl/#lightbox" width="50"></h2>
+<h2> Hi, I'm Aless Favotto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="230">
 <p><em>Full Stack Software Developer <a href="http://www.unb.br">studying at 4GeeksAcademy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
